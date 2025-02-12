@@ -1,2 +1,2 @@
 # Exercise02a-UnityShipMovement
-Andrew Grindstaff 2c
+Andrew Grindstaff 2d
