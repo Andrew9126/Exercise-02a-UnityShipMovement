@@ -13,7 +13,7 @@ TagManager:
   - Water
   - UI
   - player
-  - 
+  - bg
   - 
   - 
   - 
@@ -39,6 +39,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: bg
+    uniqueID: 759260689
+    locked: 0
+  - name: Star
+    uniqueID: 1039476849
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
